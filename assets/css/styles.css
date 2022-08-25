@@ -725,6 +725,7 @@ img {
     row-gap: 1.5rem;
 }
 
+
 .footer__link:hover {
     color: var(--first-color-lighter);
 }
